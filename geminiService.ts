@@ -1,8 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { AnalysisResult } from "./types";
 
-const apiKey = process.env.API_KEY || '';
-
+const apiKey = process.env.GEMINI_API_KEY || '';
 // Initialize the client
 // Note: In a real production app, you might want to proxy this through a backend
 // to keep the key secure, but for this demo, we use the env var directly.
