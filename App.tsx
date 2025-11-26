@@ -42,7 +42,7 @@ const App: React.FC = () => {
         <div className="container mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2 text-blue-500">
             <ScanEye className="w-8 h-8" />
-            <span className="text-xl font-bold tracking-tight text-white">Veritas<span className="text-blue-500">AI</span></span>
+            <span className="text-xl font-bold tracking-tight text-white">Check-Kar<span className="text-blue-500">AI</span></span>
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <a href="#" className="text-sm font-medium text-slate-300 hover:text-white transition-colors">How it works</a>
@@ -190,7 +190,7 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="border-t border-slate-800 py-8 mt-12 bg-[#0f172a]">
          <div className="container mx-auto px-6 text-center text-slate-500 text-sm">
-            <p>&copy; {new Date().getFullYear()} Veritas AI Detector. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Check-Kar AI Detector. All rights reserved.</p>
             <p className="mt-2">
               Disclaimer: AI detection is probabilistic. Results should be used as indicators, not definitive proof.
             </p>
