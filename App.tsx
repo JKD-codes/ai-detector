@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { AnalysisResult, AnalysisState, UploadedImage } from './types';
-import { analyzeImage } from './services/geminiService';
-import ImageUploader from './components/ImageUploader';
-import AnalysisResultView from './components/AnalysisResultView';
+import { analyzeImage } from './geminiService';
+import ImageUploader from './ImageUploader';
+import AnalysisResultView from './AnalysisResultView';
 import { ScanEye, AlertOctagon, RefreshCw, Github, Aperture, Activity, Search } from 'lucide-react';
 
 const App: React.FC = () => {
