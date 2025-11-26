@@ -1,6 +1,6 @@
 import React, { useCallback, useState, useRef } from 'react';
 import { UploadCloud, Image as ImageIcon, Loader2 } from 'lucide-react';
-import { AnalysisState } from '../types';
+import { AnalysisState } from './types';
 
 interface ImageUploaderProps {
   onImageSelected: (file: File, base64: string, preview: string) => void;
