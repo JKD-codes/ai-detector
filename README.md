@@ -7,7 +7,7 @@
 <body style="background-color: #1a202c; color: #e2e8f0; font-family: Arial, sans-serif; line-height: 1.6; padding: 40px;">
     <div style="max-width: 900px; margin-left: auto; margin-right: auto;">
         <h1 style="color: #4299e1; border-bottom: 2px solid #2d3748; padding-bottom: 8px;">
-            <span style="color: #e2e8f0;">&#x1F50D;</span> Veritas AI Detector
+            <span style="color: #e2e8f0;">&#x1F50D;</span>Check-Kar AI Detector
         </h1>
         <p style="font-size: 18px; color: #a0aec0; margin-bottom: 24px;">
             A professional-grade, open-source tool built to analyze images for common artifacts and inconsistencies, distinguishing between human-made content and deepfakes or AI-generated imagery. It provides detailed technical breakdowns and confidence scores.
