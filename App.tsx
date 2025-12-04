@@ -49,7 +49,7 @@ const App: React.FC = () => {
             <a href="#" className="text-sm font-medium text-slate-300 hover:text-white transition-colors">About</a>
             <div className="h-4 w-px bg-slate-700"></div>
             <a 
-              href="https://github.com" 
+              href="https://github.com/JKD-codes/ai-detector" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-white transition-colors"
